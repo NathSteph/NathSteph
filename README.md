@@ -15,7 +15,8 @@ Virtualisation : VMware, VirtualBox, Docker
 
 N'hésite pas à explorer mes projets et à contribuer si quelque chose t'intéresse ! 🚀
 
-------------------------------------------------------(English Version)------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+(English Version)
 
 🛡️ Welcome to My GitHub!
 I’m Nathanael T., a computer science student with a bachelor’s degree and currently pursuing a Master’s in Cybersecurity. Passionate about cyber defense, system security, and development, I use this space to share my projects, experiences, and research in this ever-evolving field.
