@@ -1,10 +1,12 @@
 ## 🛡️ Bienvenue sur mon GitHub !
 Je suis Nathanaël T., étudiant en informatique avec une licence en poche et actuellement en Mastère en cyberdéfense. Passionné par la sécurité informatique, les systèmes et réseaux, et le développement, je partage ici mes projets, expériences et explorations dans ce domaine en constante évolution.
 
-🚀 Ce que tu trouveras ici :
+#### 🚀 Ce que tu trouveras ici :
 
 🔐 Projets en cybersécurité : Analyse de vulnérabilités, pentesting, CTFs...
+
 💻 Développement : Scripts Python, outils d'automatisation, projets liés à la sécurité ou autres.
+
 📜 Travaux académiques : Contributions, rapports et recherches en cyberdéfense ou en informatique générale.
 
 🛠️ Technologies & Outils
