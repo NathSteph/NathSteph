@@ -1,3 +1,5 @@
+<img align="right" src="https://cdn-icons-png.flaticon.com/128/1995/1995517.png" width="120"/>  
+
 ## 🛡️ Bienvenue sur mon GitHub !
 Je suis Nathanaël T., étudiant en informatique avec une licence en poche et actuellement en Mastère en cyberdéfense. Passionné par la sécurité informatique, les systèmes et réseaux, et le développement, je partage ici mes projets, expériences et explorations dans ce domaine en constante évolution.
 
