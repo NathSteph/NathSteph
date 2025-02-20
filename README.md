@@ -21,7 +21,7 @@ Virtualisation : VMware, VirtualBox, Docker
 ###### N'hésite pas à explorer mes projets et à contribuer si quelque chose t'intéresse ! 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tonprofil/" target="_blank">
+  <a href="https://www.linkedin.com/in/nathmaktchic" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
@@ -49,3 +49,9 @@ Systems: Linux (Kali, Debian, Ubuntu), Windows Server
 Virtualization: VMware, VirtualBox, Docker
 
 ###### Feel free to explore my projects and contribute if something interests you! 🚀
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathmaktchic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
